@@ -130,7 +130,7 @@ label span {
   /* <-- create new checkbox */
   width: 20px;
   height: 20px;
-
+  top: -6px;
   display: inline-block;
   position: relative;
   background-color: #4f5565;
